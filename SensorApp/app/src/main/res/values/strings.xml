@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SensorApp</string>
+    <string name="measurement">%1$s: %2$f</string>
+    <string name="available_sensors">Available sensors are: %1$s</string>
+</resources>
